@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #002366;
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#about {
+  padding: 20px;
+  background-color: #cc0000;
+}
+
+#projects {
+  padding: 20px;
+  /* background-color: #cc0000; */
+  background-color: #002366;
+}
+
+#projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+#contact {
+  padding: 20px;
+  background-color: #cc0000;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+  background-color: #cc0000;
+}
+
+img {
+  width: 25%;
+}
